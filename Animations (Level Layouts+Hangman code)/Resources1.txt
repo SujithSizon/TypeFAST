@@ -1,0 +1,151 @@
+gotoxy(logox,logoy);        cout<<" ___________     , __, ,________  ___________, ,,....         \n";
+logoy++;gotoxy(logox,logoy);cout<<"/__    ____/  __/||  | | ______ } >_   _____/ ********         \n";
+logoy++;gotoxy(logox,logoy);cout<<"  |    |     /   ||  | |     __/   |    __)__***`````       \n";
+logoy++;gotoxy(logox,logoy);cout<<"  |    |    {____    | |    |      |         } *******""   \n";
+logoy++;gotoxy(logox,logoy);cout<<"  |____|    / _______| |____|     <_______  / ***"""""        \n";
+logoy++;gotoxy(logox,logoy);cout<<"           {_/                            |/ ""````           \n";
+logoy++;gotoxy(logox,logoy);cout<<" __________ _________   ________  __________ ,,,....      \n";
+logoy++;gotoxy(logox,logoy);cout<<"/_  ______//  _   __/  / ______/ {_________/ ********```   \n";
+logoy++;gotoxy(logox,logoy);cout<<" |   ___) /  [_]  }   {_____  }    |   | ***"""````      \n";
+logoy++;gotoxy(logox,logoy);cout<<" |  >    /    |    }  _____/  }    |   | ******          \n";
+logoy++;gotoxy(logox,logoy);cout<<" | /    {____/|__  / {_____  /     |___| ****"""``        \n";
+logoy++;gotoxy(logox,logoy);cout<<" |/              |/        |/            ```````                \n";
+
+
+
+
+for(i=0;i<6;i++)
+{
+if(i==0)
+{clrscr();int logox=12,logoy=10;
+gotoxy(logox,logoy);        cout<<"db        d88888b   db    db   d88888b   db          j88D  \n";
+logoy++;gotoxy(logox,logoy);cout<<"88        88'       88    88   88'       88         j8~88      \n";
+logoy++;gotoxy(logox,logoy);cout<<"88        88ooooo   Y8    8P   88ooooo   88        j8' 88    \n";
+logoy++;gotoxy(logox,logoy);cout<<"88booo.   88.        `8bd8'    88.       88booo.  C888888D      \n";
+logoy++;gotoxy(logox,logoy);cout<<"Y88888P   Y88888P      YP      Y88888P   Y88888P       88      \n";
+Sleep(1000);strcpy(filename,"Level 4");}
+
+else if(i==1){cout<<"Level 2";strcpy(filename,"Level 2");}
+else if(i==2){cout<<"Level 3";strcpy(filename,"Level 3");}
+else if(i==3){cout<<"Level 4";strcpy(filename,"Level 4");}
+else if(i==4){cout<<"Level 5";strcpy(filename,"Level 5");}
+
+
+
+   j88D  
+  j8~88  
+ j8' 88  
+V888888D 
+     88    
+                
+                                  
+                                  
+                                  
+        
+        
+
+
+
+
+
+
+
+for(int i=0;i<60;i++,i++,i++)
+{
+gotoxy(30,22);cout<<"coded by sujith";
+int x=29+i;gotoxy(x,22);cout<<"                ";
+int logox=16,logoy=4;
+gotoxy(logox,logoy);        cout<<" ___________     , __, ,________  ___________, ,,....         \n";
+logoy++;gotoxy(logox,logoy);cout<<"/__    ____/  __/||  | | ______ } >_   _____/ ********         \n";
+logoy++;gotoxy(logox,logoy);cout<<"  |    |     /   ||  | |     __/   |    __)__***`````       \n";
+logoy++;gotoxy(logox,logoy);cout<<"  |    |    {____    | |    |      |         } *******""   \n";
+logoy++;gotoxy(logox,logoy);cout<<"  |____|    / _______| |____|     <_______  / ***""""""        \n";
+logoy++;gotoxy(logox,logoy);cout<<"           {_/                            |/ ""````           \n";
+logoy++;gotoxy(logox,logoy);cout<<" __________ _________   ________  __________ ,,,....      \n";
+logoy++;gotoxy(logox,logoy);cout<<"/_  ______//  _   __/  / ______/ {_________/ ********```   \n";
+logoy++;gotoxy(logox,logoy);cout<<" |   ___) /  [_]  }   {_____  }    |   | ...**""""````      \n";
+logoy++;gotoxy(logox,logoy);cout<<" |  >    /    |    }  _____/  }    |   | ******          \n";
+logoy++;gotoxy(logox,logoy);cout<<" | /    {____/|__  / {_____  /     |___| ****""""``        \n";
+logoy++;gotoxy(logox,logoy);cout<<" |/              |/        |/          ,,***````                \n";
+for(logox=(7+i);logox<60;logox++)
+{
+logoy=4;
+gotoxy(logox,logoy);        cout<<"         \n";Sleep(5);
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+logoy++;gotoxy(logox,logoy);cout<<"         \n";Sleep(5);logox++;
+}
+}Sleep(1000);
+
+
+
+int logox=12,logoy=10;
+gotoxy(logox,logoy);        cout<<" .d8b.   d8888b.  .d88b.   db    db d888888b \n";
+logoy++;gotoxy(logox,logoy);cout<<"d8' `8b  88  `8D .8P  Y8.  88    88 `~~88~~' \n";
+logoy++;gotoxy(logox,logoy);cout<<"88ooo88  88oooY' 88    88  88    88    88    \n";
+logoy++;gotoxy(logox,logoy);cout<<"88~~~88  88~~~b. 88    88  88    88    88    \n";
+logoy++;gotoxy(logox,logoy);cout<<"88   88  88   8D `8b  d8'  88b  d88    88    \n";
+logoy++;gotoxy(logox,logoy);cout<<"YP   YP  Y8888P'  `Y88P'   ~Y8888P'    YP    \n";
+gotoxy(logox,logoy);        cout<<"Typefast is a program that lets you practice your speed-typing\n";
+logoy++;gotoxy(logox,logoy);cout<<" skills and helps you get familiar with the QWERTY keyboard.\n";
+gotoxy(logox,logoy);        cout<<" +-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+\n";
+logoy++;gotoxy(logox,logoy);cout<<" |D|e|v|e|l|o|p|e|d| |b|y| |S|u|j|i|t|h| |a|n|d| |V|i|d|y|a|d|e|e|s|h|a|\n";
+logoy++;gotoxy(logox,logoy);cout<<" +-+-+-+-+-+-+-+-+-+ +-+-+ +-+-+-+-+-+-+ +-+-+-+ +-+-+-+-+-+-+-+-+-+-+-+\n";
+
+
+To Sherlock Holmes she is always THE woman. I have seldom heard him mention her under any other name. In his eyes she eclipses and predominates the whole of her sex. It was not that he felt any emotion akin to love for Irene Adler. All emotions, and that one particularly, were abhorrent to his cold, precise but admirably balanced mind. He was, I take it, the most perfect reasoning and observing machine that the world has seen, but as a lover he would have placed himself in a false position. He never spoke of the softer passions, save with a gibe and a sneer.
+
+
+
+gotoxy(logox,logoy);        cout<<"::::    ::::  :::::::::: ::::    ::: :::    :::\n"; 
+logoy++;gotoxy(logox,logoy);cout<<"+:+:+: :+:+:+ :+:        :+:+:   :+: :+:    :+: \n";
+logoy++;gotoxy(logox,logoy);cout<<"+:+ +:+:+ +:+ +:+        :+:+:+  +:+ +:+    +:+ \n";
+logoy++;gotoxy(logox,logoy);cout<<"+#+  +:+  +#+ +#++:++#   +#+ +:+ +#+ +#+    +:+ \n";
+logoy++;gotoxy(logox,logoy);cout<<"+#+       +#+ +#+        +#+  +#+#+# +#+    +#+ \n";
+logoy++;gotoxy(logox,logoy);cout<<"#+#       #+# #+#        #+#   #+#+# #+#    #+# \n";
+logoy++;gotoxy(logox,logoy);cout<<"###       ### ########## ###    ####  ########  \n";
+
+                                               
+
+
+
+
+int logox=18,logoy=12;
+gotoxy(logox,logoy);        cout<<"     Oops!! You have typed incorrectly.";
+logox=18;logoy=14;gotoxy(logox,logoy);cout<<"Do you want to Replay this Level ? (y/n) : ";
+
+
+
+
+int logox=12,logoy=10;
+gotoxy(logox,logoy);        cout<<"8888888                   888                              888    d8b                            \n";
+logoy++;gotoxy(logox,logoy);cout<<"  888                     888                              888    Y8P                            \n";
+logoy++;gotoxy(logox,logoy);cout<<"  888                     888                              888                                   \n";
+logoy++;gotoxy(logox,logoy);cout<<"  888   88888b.  .d8888b  888888 888d888 888  888  .d8888b 888888 888  .d88b.  88888b.  .d8888b  \n";
+logoy++;gotoxy(logox,logoy);cout<<"  888   888 "88b 88K      888    888P"   888  888 d88P"    888    888 d88""88b 888 "88b 88K      \n";
+logoy++;gotoxy(logox,logoy);cout<<"  888   888  888 "Y8888b. 888    888     888  888 888      888    888 888  888 888  888 "Y8888b. \n";
+logoy++;gotoxy(logox,logoy);cout<<"  888   888  888      X88 Y88b.  888     Y88b 888 Y88b.    Y88b.  888 Y88..88P 888  888      X88 \n";
+logoy++;gotoxy(logox,logoy);cout<<"8888888 888  888  88888P'  "Y888 888      "Y88888  "Y8888P  "Y888 888  "Y88P"  888  888  88888P' \n";
+                                                                                                 
+                                                                                                 
+int logox=1,logoy=10;
+gotoxy(logox,logoy);        cout<<"  ___             __                   __   __                   \n";
+logoy++;gotoxy(logox,logoy);cout<<" |   .-----.-----|  |_.----.--.--.----|  |_|__.-----.-----.-----.\n";
+logoy++;gotoxy(logox,logoy);cout<<" |.  |     |__ --|   _|   _|  |  |  __|   _|  |  _  |     |__ --|\n";
+logoy++;gotoxy(logox,logoy);cout<<" |.  |__|__|_____|____|__| |_____|____|____|__|_____|__|__|_____|\n";
+logoy++;gotoxy(logox,logoy);cout<<" |:  |                                                           \n";
+logoy++;gotoxy(logox,logoy);cout<<" |::.|                                                           \n";
+logoy++;gotoxy(logox,logoy);cout<<" `---'                                                           \n";
+                                                                 
+                                                                                                 
+                                                                                                        
+
+                                               

@@ -1,0 +1,57 @@
+#include<time.h>
+#include<fstream.h>
+#include<process.h>
+#include<stdio.h>
+#include<windows.h>
+#include<conio.h>
+#include<string.h>
+
+
+int main()
+{
+
+char c[10000],ch;
+int pos[10],x=0;
+char s[10000];
+
+ifstream fin("hangaroo clue lv1.txt",ios::in);
+while(!fin.eof())
+{
+fin.getline(s,10000);
+for (int i=0;i<10000;i++)
+{fin>>s[i];
+}
+}
+fin.close();
+
+
+
+
+gotoxy(5,5);cout<<s;
+
+gotoxy(5,6);cout<<"S _ _ _ _   J _ _ s ";
+
+gotoxy(6,6);cin>>ch;
+
+ifstream fout;
+fout.open("hangaroo lv1.txt",ios::in)
+while(fout)
+{
+fout<<ch1;
+count++;
+if(ch==ch1)
+pos[x]=count;
+x++;
+ }
+      for(int j=0;j<x;j++)
+{ gotoxy(pos[x],6);  cout<<ch;}
+
+
+
+
+
+
+
+
+
+

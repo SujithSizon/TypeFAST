@@ -28,7 +28,7 @@ How to use:
 P.S.- new commits and pushes are always welcome.
 
 
-For the lazy folks:
+For the lazy folks (Click on the image below to go to the vedio):
 
 [![Click to watch the demo vedio](https://github.com/SujithSizon/TypeFAST/raw/master/Capture.PNG)](https://www.youtube.com/watch?v=trWaaisfIs0)
 
