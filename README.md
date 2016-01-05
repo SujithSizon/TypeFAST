@@ -4,7 +4,7 @@
 Small project done on C++ Borland compiler (sucks right) for a school investigatory project.
 
 
-The ability to type quickly, accurately and without seeing at the keyboard is a huge advantage beside the nature of your work at computer system. Having good typing skills is essential in today’s society where almost everything is computer based and hence requires typing on a keyboard to input texts and messages frequently.
+The ability to type quickly, accurately and without seeing at the keyboard is a huge advantage beside the nature of your work at computer system. Having good typing skills is essential in todayâ€™s society where almost everything is computer based and hence requires typing on a keyboard to input texts and messages frequently.
 
 1. Fast typing can save a lot of time at school and colleges when taking notes, writing assignments and chatting with friends online.
 2. If you like chatting and communication forums, typing fast will save you a lot of time and allow you to say more.
@@ -20,12 +20,19 @@ An initial menu is displayed from which the user can choose to play the two game
 
 How to use:
 
-1) Download the entire folder as zip.
-2) Install Borland Compiler v5.0.2 provided in the "Borland Setup" folder.
-3) Open "typefast.exe" to test run the program as an executable
-3) Open "typefast.cpp" to view the source code.
-4) Read "writeup.doc" to know more about functions used.
-P.S.- new commits and pushes are always welcome.
+1) Download the entire folder as zip.  
+
+2) Install Borland Compiler v5.0.2 provided in the "Borland Setup" folder.  
+
+3) Open "typefast.exe" to test run the program as an executable.  
+
+3) Open "typefast.cpp" to view the source code.  
+
+4) Read "writeup.doc" to know more about functions used.  
+
+P.S.- new commits and pushes are always welcome.  
+  
+  
 
 
 For the lazy folks (Click on the image below to go to the vedio):
