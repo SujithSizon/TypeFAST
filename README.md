@@ -16,3 +16,21 @@ The ability to type quickly, accurately and without seeing at the keyboard is a 
 
 
 An initial menu is displayed from which the user can choose to play the two games, view the leaderboard etc. If he chooses to play the Typing Tutor game, he will be taken level-wise, he will be prompted to enter the letters of the shown paragraph in sequence and the time he does this in, is calculated. When he enters the entire string correctly, the next menu is displayed from which he can either choose to add his score or view leaderboards for that level or go to the next level of the game. How to play the game, and about the game can all be viewed directly from the initial menu.
+
+
+How to use:
+
+1) Download the entire folder as zip.
+2) Install Borland Compiler v5.0.2 provided in the "Borland Setup" folder.
+3) Open "typefast.exe" to test run the program as an executable
+3) Open "typefast.cpp" to view the source code.
+4) Read "writeup.doc" to know more about functions used.
+P.S.- new commits and pushes are always welcome.
+
+
+For the lazy folks:
+
+[![Click to watch the demo vedio](https://github.com/SujithSizon/TypeFAST/raw/master/Capture.PNG)](https://www.youtube.com/watch?v=trWaaisfIs0)
+
+
+
