@@ -21,15 +21,10 @@ An initial menu is displayed from which the user can choose to play the two game
 How to use:
 
 1) Download the entire folder as zip.  
-
 2) Install Borland Compiler v5.0.2 provided in the "Borland Setup" folder.  
-
 3) Open "typefast.exe" to test run the program as an executable.  
-
-3) Open "typefast.cpp" to view the source code.  
-
-4) Read "writeup.doc" to know more about functions used.  
-
+4) Open "typefast.cpp" to view the source code.  
+5) Read "writeup.doc" to know more about functions used.  
 P.S.- new commits and pushes are always welcome.  
   
   
